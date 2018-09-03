@@ -1,0 +1,7 @@
+C:\Users\sebastian.ibague\source\repos\delegados\delegados\bin\Debug\delegados.exe.config
+C:\Users\sebastian.ibague\source\repos\delegados\delegados\bin\Debug\delegados.exe
+C:\Users\sebastian.ibague\source\repos\delegados\delegados\bin\Debug\delegados.pdb
+C:\Users\sebastian.ibague\source\repos\delegados\delegados\obj\Debug\delegados.csprojAssemblyReference.cache
+C:\Users\sebastian.ibague\source\repos\delegados\delegados\obj\Debug\delegados.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.ibague\source\repos\delegados\delegados\obj\Debug\delegados.exe
+C:\Users\sebastian.ibague\source\repos\delegados\delegados\obj\Debug\delegados.pdb

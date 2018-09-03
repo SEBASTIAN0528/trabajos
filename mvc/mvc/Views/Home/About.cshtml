@@ -1,0 +1,29 @@
+﻿@Model List<mvc.Models.promedio>
+
+@{
+    ViewBag.Title = "Notas matematicas";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<table class="table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Promedio</th>
+            <th>Materia</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var promedio in Model)
+        {
+        <tr>
+            <td>@promedio.Nombre</td>
+            <td>@promedio.Apellido</td>
+            <td>@promedio.Nota</td>
+            <td>@promedio.materia</td>
+        </tr>
+        }
+    </tbody>
+</table>
