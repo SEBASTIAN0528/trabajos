@@ -1,0 +1,7 @@
+C:\Users\sebastian.ibague\Documents\starting visual\data_types\data_types\bin\Debug\data_types.exe.config
+C:\Users\sebastian.ibague\Documents\starting visual\data_types\data_types\bin\Debug\data_types.exe
+C:\Users\sebastian.ibague\Documents\starting visual\data_types\data_types\bin\Debug\data_types.pdb
+C:\Users\sebastian.ibague\Documents\starting visual\data_types\data_types\obj\Debug\data_types.csprojAssemblyReference.cache
+C:\Users\sebastian.ibague\Documents\starting visual\data_types\data_types\obj\Debug\data_types.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.ibague\Documents\starting visual\data_types\data_types\obj\Debug\data_types.exe
+C:\Users\sebastian.ibague\Documents\starting visual\data_types\data_types\obj\Debug\data_types.pdb

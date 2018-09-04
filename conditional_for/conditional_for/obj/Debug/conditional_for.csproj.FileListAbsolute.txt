@@ -1,0 +1,6 @@
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_for\conditional_for\bin\Debug\conditional_for.exe.config
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_for\conditional_for\bin\Debug\conditional_for.exe
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_for\conditional_for\bin\Debug\conditional_for.pdb
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_for\conditional_for\obj\Debug\conditional_for.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_for\conditional_for\obj\Debug\conditional_for.exe
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_for\conditional_for\obj\Debug\conditional_for.pdb

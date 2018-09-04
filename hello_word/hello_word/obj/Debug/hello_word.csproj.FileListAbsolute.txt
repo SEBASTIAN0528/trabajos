@@ -1,0 +1,7 @@
+C:\Users\sebastian.ibague\Documents\begin visual\hello_word\hello_word\bin\Debug\hello_word.exe.config
+C:\Users\sebastian.ibague\Documents\begin visual\hello_word\hello_word\bin\Debug\hello_word.exe
+C:\Users\sebastian.ibague\Documents\begin visual\hello_word\hello_word\bin\Debug\hello_word.pdb
+C:\Users\sebastian.ibague\Documents\begin visual\hello_word\hello_word\obj\Debug\hello_word.csprojAssemblyReference.cache
+C:\Users\sebastian.ibague\Documents\begin visual\hello_word\hello_word\obj\Debug\hello_word.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.ibague\Documents\begin visual\hello_word\hello_word\obj\Debug\hello_word.exe
+C:\Users\sebastian.ibague\Documents\begin visual\hello_word\hello_word\obj\Debug\hello_word.pdb

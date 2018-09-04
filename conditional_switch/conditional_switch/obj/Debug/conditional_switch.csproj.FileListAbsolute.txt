@@ -1,0 +1,6 @@
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_switch\conditional_switch\bin\Debug\conditional_switch.exe.config
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_switch\conditional_switch\bin\Debug\conditional_switch.exe
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_switch\conditional_switch\bin\Debug\conditional_switch.pdb
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_switch\conditional_switch\obj\Debug\conditional_switch.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_switch\conditional_switch\obj\Debug\conditional_switch.exe
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_switch\conditional_switch\obj\Debug\conditional_switch.pdb

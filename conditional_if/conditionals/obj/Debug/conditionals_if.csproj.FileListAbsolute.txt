@@ -1,0 +1,7 @@
+C:\Users\sebastian.ibague\source\repos\conditionals\conditionals\bin\Debug\conditionals.exe.config
+C:\Users\sebastian.ibague\source\repos\conditionals\conditionals\bin\Debug\conditionals.exe
+C:\Users\sebastian.ibague\source\repos\conditionals\conditionals\bin\Debug\conditionals.pdb
+C:\Users\sebastian.ibague\source\repos\conditionals\conditionals\obj\Debug\conditionals_if.csprojAssemblyReference.cache
+C:\Users\sebastian.ibague\source\repos\conditionals\conditionals\obj\Debug\conditionals_if.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.ibague\source\repos\conditionals\conditionals\obj\Debug\conditionals.exe
+C:\Users\sebastian.ibague\source\repos\conditionals\conditionals\obj\Debug\conditionals.pdb

@@ -1,0 +1,6 @@
+C:\Users\sebastian.ibague\Documents\starting visual\polymorphismin\polymorphismin\obj\Debug\polymorphismin.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.ibague\Documents\starting visual\polymorphismin\polymorphismin\bin\Debug\polymorphismin.exe.config
+C:\Users\sebastian.ibague\Documents\starting visual\polymorphismin\polymorphismin\bin\Debug\polymorphismin.exe
+C:\Users\sebastian.ibague\Documents\starting visual\polymorphismin\polymorphismin\bin\Debug\polymorphismin.pdb
+C:\Users\sebastian.ibague\Documents\starting visual\polymorphismin\polymorphismin\obj\Debug\polymorphismin.exe
+C:\Users\sebastian.ibague\Documents\starting visual\polymorphismin\polymorphismin\obj\Debug\polymorphismin.pdb

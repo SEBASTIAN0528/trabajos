@@ -1,0 +1,6 @@
+C:\Users\sebastian.ibague\Documents\starting visual\access_modifiers\access_modifiers\bin\Debug\access_modifiers.exe.config
+C:\Users\sebastian.ibague\Documents\starting visual\access_modifiers\access_modifiers\bin\Debug\access_modifiers.exe
+C:\Users\sebastian.ibague\Documents\starting visual\access_modifiers\access_modifiers\bin\Debug\access_modifiers.pdb
+C:\Users\sebastian.ibague\Documents\starting visual\access_modifiers\access_modifiers\obj\Debug\access_modifiers.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.ibague\Documents\starting visual\access_modifiers\access_modifiers\obj\Debug\access_modifiers.exe
+C:\Users\sebastian.ibague\Documents\starting visual\access_modifiers\access_modifiers\obj\Debug\access_modifiers.pdb

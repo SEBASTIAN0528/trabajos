@@ -1,0 +1,6 @@
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_while\conditional_while\bin\Debug\conditional_while.exe.config
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_while\conditional_while\bin\Debug\conditional_while.exe
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_while\conditional_while\bin\Debug\conditional_while.pdb
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_while\conditional_while\obj\Debug\conditional_while.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_while\conditional_while\obj\Debug\conditional_while.exe
+C:\Users\sebastian.ibague\Documents\starting visual\conditional_while\conditional_while\obj\Debug\conditional_while.pdb

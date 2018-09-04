@@ -1,0 +1,7 @@
+C:\Users\sebastian.ibague\source\repos\Enumeration\Enumeration\bin\Debug\Enumeration.exe.config
+C:\Users\sebastian.ibague\source\repos\Enumeration\Enumeration\bin\Debug\Enumeration.exe
+C:\Users\sebastian.ibague\source\repos\Enumeration\Enumeration\bin\Debug\Enumeration.pdb
+C:\Users\sebastian.ibague\source\repos\Enumeration\Enumeration\obj\Debug\Enumeration.csprojAssemblyReference.cache
+C:\Users\sebastian.ibague\source\repos\Enumeration\Enumeration\obj\Debug\Enumeration.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.ibague\source\repos\Enumeration\Enumeration\obj\Debug\Enumeration.exe
+C:\Users\sebastian.ibague\source\repos\Enumeration\Enumeration\obj\Debug\Enumeration.pdb

@@ -1,0 +1,7 @@
+C:\Users\sebastian.ibague\Documents\starting visual\inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\sebastian.ibague\Documents\starting visual\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\Users\sebastian.ibague\Documents\starting visual\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\Users\sebastian.ibague\Documents\starting visual\inheritance\inheritance\obj\Debug\inheritance.csprojAssemblyReference.cache
+C:\Users\sebastian.ibague\Documents\starting visual\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.ibague\Documents\starting visual\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\Users\sebastian.ibague\Documents\starting visual\inheritance\inheritance\obj\Debug\inheritance.pdb
